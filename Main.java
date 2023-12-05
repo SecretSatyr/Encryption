@@ -5,6 +5,6 @@ class Main {
     Vigenere v = new Vigenere(0,12,0,12,m);
     thread t = new thread(v);
     t.start(); 
-    //commento
+    //commento nuovo
   }
 }
